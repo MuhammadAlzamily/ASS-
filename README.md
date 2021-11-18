@@ -14,9 +14,9 @@ I really hope one day this shit turns into a startup so lessgooooooo
 
 - cd into it
 
-- you need `gcc` installed
+- you need `g++` installed so plz `sudo apt-get install g++`
 
-- if you do then just run `gcc -o in-my-ass index.cpp`
+- if you do then just run `g++ -o in-my-ass index.cpp`
 
 **_THIS WAS WRITTEN AND TESTED ON A KALI LINUX DISTRO_**
 
