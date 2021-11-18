@@ -18,6 +18,8 @@ I really hope one day this shit turns into a startup so lessgooooooo
 
 - if you do then just run `g++ -o in-my-ass index.cpp`
 
+- Lastly run the program with `./in-my-ass`
+
 **_THIS WAS WRITTEN AND TESTED ON A KALI LINUX DISTRO_**
 
 _pls submit any issues and make pull requests_
