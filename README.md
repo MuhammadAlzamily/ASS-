@@ -1,4 +1,4 @@
-# IN MY ASS WRITTEN IN C++
+# WELCOME TO ASS++
 
 I really hope one day this shit turns into a startup so lessgooooooo
 

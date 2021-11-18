@@ -10,7 +10,7 @@ using namespace std;
 int main() {
 	string lastSong;
 	cout << "Enter the name of the last song you listened to: ";
-	cin >> lastSong;
+	getline(cin, lastSong);
 	cout << lastSong.append(" IN MY ASS");
   	return 0;
 }
